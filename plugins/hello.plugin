@@ -1,0 +1,31 @@
+#!/usr/bin/python
+
+__plugin__      = "hello.plugin"
+
+print """\033[1;92m
+How to add a plugin to SAIL????
+
+Well its not so easy aslong as you know how to have a minimal skill of python
+you are able to create a plugin with the extention .plugin
+
+once you have created your plugin you will need to add it into sail.py by doing:
+--------------------------------    
+elif terminal[4:32] =='example':
+    example()
+    main()
+--------------------------------
+you will see this in the file you can learn and adapt from this
+
+once you added the plugin name now you need to define example()
+
+so at the bottom just above start() define example() by doing:
+
+def example():
+    yourcode goes here :)
+---------------------------
+
+We hope you enjoy sail and give us the support to carry on with this project.
+
+Hack the planet!
+\033[1;m"""
+
