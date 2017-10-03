@@ -8,7 +8,7 @@ def payloads():
     print " ----              -------      -----------"
     print " Doublepulsar      1.3.1        Remotely inject a malicious dll backdoor"
     print " Kodi              1.0.0        Create a malicious addon(backdoor) via kodi.tv"
-    print " Tresspass         3.0.0        Backdoor reverse connection using password"
+    print " Tresspass         3.0.0        A password authenticated PHP web backdoor"
     print "\n"
 
 def exploits():
@@ -46,7 +46,7 @@ def all():
     print " Eternalblue       2.2.0        Exploits a vulnerability on SMBv1/SMBv2 protocols"
     print " Doublepulsar      1.3.1        Remotely inject a malicious dll backdoor"
     print " Kodi              1.0.0        Create a malicious addon(backdoor) via kodi.tv"
-    print " Tresspass         3.0.0        Backdoor reverse connection using password"
+    print " Tresspass         3.0.0        A password authenticated PHP web backdoor"
     print " Handler           1.0.0        Create a listener"
     print " Dnsspoof          1.0.0        DNS Spoof all http requests"
     print " Credswipe         1.0.0        A Credit Card swiper"
