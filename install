@@ -4,8 +4,8 @@ echo "So im going to load all files now for you please wait..."
 mv rsfconsole /usr/bin/rsfconsole
 chmod +x /usr/bin/rsfconsole
 
-mkdir /tmp/roxysploit
-mv * /tmp/roxysploit/
-chmod +x /tmp/roxysploit
+mkdir /opt/roxysploit
+mv * /opt/roxysploit/
+chmod +x /opt/roxysploit
 
 echo "Ok were done :) run 'rsfconsole'"
